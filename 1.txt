@@ -1,2 +1,3 @@
 this is document
 text file
+push and pull 
